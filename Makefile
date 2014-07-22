@@ -31,8 +31,8 @@
 PREFIX = /usr/local/
 
 PEBL_VERSION =0.14
-USE_WAAVE=1       ##Optional; comment out to turn off waave multimedia library
-USE_AUDIOIN=1     ##Optional; comment out to turn off  sdl_audioin library
+#USE_WAAVE=1       ##Optional; comment out to turn off waave multimedia library
+#USE_AUDIOIN=1     ##Optional; comment out to turn off  sdl_audioin library
 USE_NETWORK=1     ##Optional; comment out to turn off sdl_net library.
 USE_PORTS=1 
 USE_HTTP=1      ##Optional; turn on/off for http get/set
